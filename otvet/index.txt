@@ -1,0 +1,10 @@
+<link rel="stylesheet" href="https://unpkg.com/spectre.css/dist/spectre.min.css">
+
+<div class="contanier grid-sm">
+ <p>
+Спасибо, ваша анкета на рассмотрении
+ </p>  
+<button class="btn btn-primary loading">primary button</button>
+</div>
+
+
